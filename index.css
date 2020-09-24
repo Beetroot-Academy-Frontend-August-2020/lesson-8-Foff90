@@ -1,0 +1,136 @@
+.nav-bar {
+    float: right;
+}
+
+.nav-bar li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.nav-bar li a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+.row {
+    background-color: #f4f6f7;
+    width: 1550px;
+    height: 500px;
+    padding: 30px;
+}
+
+.Illustration {
+    float: right;
+    height: 400px;
+    width: 550px;
+    position: relative;
+    bottom: 100px;
+    right: 200px;
+}
+
+.row button {
+    color: #ffffff;
+    background-color: #FF7F57;
+    width: 336px;
+    height: 60px;
+    font-size: 17px;
+    border: none;
+    
+}
+
+.Agency h3 {
+    position: relative;
+    left: 730px;
+    font-size: 16px;
+    color: #2557ab;
+}
+
+div.Agency {
+    background-color: #ffffff;
+    width: 1550px;
+    height: 330px;
+    padding: 30px;
+    
+}
+
+.why-us {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+
+}
+
+.rows h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.Numbers {
+    background-color: #f4f6f7;
+    width: 1550px;
+    height: 200px;
+    padding: 30px; 
+}
+
+.Important-numbers {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.Important-numbers h4 {
+    font-size: 45px;
+    margin: 30px;
+    color: #13253a;
+}
+
+.Important-numbers p {
+    color: #2557ab;
+    font-size: 16px;
+    margin: 25px; 
+}
+
+.About-us {
+    background-color: #f2f2f2;
+    width: 1550px;
+    height: 600px;
+    padding: 30px; 
+}
+
+.About-us h1 {
+    position: relative;
+    left: 850px;
+    color: #13253a;
+    font-size: 38px;
+}
+
+.About-us h2 {
+    position: relative;
+    left: 850px;
+    color: #2557ab;
+    font-size: 16px;
+}
+
+.flex-container {
+    display: flex;
+    height: 200px;
+    align-items: center;
+    position: relative;
+    left: 400px;
+}
+
+.flex-container div {
+    height: 350px;
+    width: 400px;
+    margin: 10px;
+    text-align: center;
+    line-height: 30px;
+      
+}
+
+.Client-logos {
+    position: relative;
+    bottom: -150px;
+    left: 400px;
+
+}
